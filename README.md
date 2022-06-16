@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slavekrouta
-- 👀 I’m interested in C# and HTML
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in C#, JS and HTML
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
