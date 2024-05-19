@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slavekrouta
-- 👀 I’m interested in C#, JS and HTML
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android/Linux C#, JS and HTML
+- 🌱 I’m currently learning Linux
+- 💞️ I’m not currently collaborating.
 - 📫 You can reach me on discord (slavekrouta#2953), email (slavecek2010@seznam.cz) or reddit (lotusek_salamek) 
 
 <!---
