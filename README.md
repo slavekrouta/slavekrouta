@@ -1,6 +1,6 @@
-⮳ hi, i’m @slavekrouta
-⇨ i’m interested in linux, .net, php and assembly
-⇨ i’m currently working on [zbozi](https://github.com/slavekrouta/Zbozi)
+⮳ hi, i’m @slavekrouta\n
+⇨ i’m interested in linux, .net, php and assembly\n
+⇨ i’m currently working on [zbozi](https://github.com/slavekrouta/Zbozi)\n
 ⮱ you can reach me on discord (slavekrouta#2953), telegram ([slavekrouta](https://t.me/slavekrouta)), or over email (slvkrt@seznam.cz)
 
 <!---
